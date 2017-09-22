@@ -9,6 +9,6 @@ Usage:
 
 python bandplot.py -n 2 -f case.energy case.energyso -e 0.3 0.35 -l GGA GGA+SOC
 
-For more information: 
+Help: 
 
 python bandplot.py -h
