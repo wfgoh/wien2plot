@@ -41,7 +41,7 @@ def readene(fermi,filename) :
 			ib=0
 		else:
 			ib+=1
-			ene[ib][ik]=(float(line.split()[1])-fermi)*constants.Rydberg*constants.h*constants.c/constants.eV
+			ene[ib][ik]=(float(line.split()[1].replace('D','E'))-fermi)*constants.Rydberg*constants.h*constants.c/constants.eV
 	return ene, nbnd, ik, kindex, klabel
 
 def plotene(ene,kpoint,nbnd,label,color) :
