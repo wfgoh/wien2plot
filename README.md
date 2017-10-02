@@ -5,9 +5,11 @@ This code written in Python allows one to plot multiple bands in WIEN2k.
 
 The only input files required are the energy file, eg. case.energy(so).
 
+To download:\\
 git hub https://github.com/wfgoh/wien2k-bandplot.git
 
-Optional: pip install 
+Install required python libs: \\
+pip install numpy matplotlib pyplot ast scipy argparse os
 
 Usage: 
 
