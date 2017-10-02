@@ -1,4 +1,4 @@
-# wien2k-bandplot
+# wien2plot
 Plot multiple bands in WIEN2k
 
 This code written in Python allows one to plot multiple bands in WIEN2k.
