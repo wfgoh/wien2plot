@@ -11,10 +11,8 @@ git hub https://github.com/wfgoh/wien2k-bandplot.git
 Install required python libs:<br />
 pip install numpy matplotlib pyplot ast scipy argparse os
 
-Usage: 
-
+Usage: <br />
 python bandplot.py -n 2 -f case.energy case.energyso -e 0.3 0.35 -l GGA GGA+SOC
 
-Help: 
-
+Help: <br />
 python bandplot.py -h
