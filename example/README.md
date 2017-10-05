@@ -6,4 +6,4 @@ python wien2plot.py -n 3 -f gga.energyso gw.energyso mbj.energyso -e 0.315 0.295
 **To view:** <br />
 evince band.eps
 
-![](https://github.com/wfgoh/wien2plot/blob/master/example/band.pdf)
+![](https://github.com/wfgoh/wien2plot/blob/master/example/band.jpg)
