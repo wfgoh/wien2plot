@@ -1,9 +1,9 @@
 # wien2plot
-Plot multiple bands in WIEN2k
+**Plot multiple bandstructures in WIEN2k**
 
-This code written in Python allows one to plot multiple bands in WIEN2k.
+This code written in Python allows one to plot multiple bandstructure in WIEN2k.
 
-The only input files required are the energy file, eg. case.energy(so).
+The only input files required are the energy files, eg. case.energy(so).
 
 **To download:** <br />
 git clone https://github.com/wfgoh/wien2plot.git
