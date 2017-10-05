@@ -12,7 +12,8 @@ git clone https://github.com/wfgoh/wien2plot.git
 pip install numpy matplotlib pyplot ast scipy argparse os
 
 **Example of Usage:** <br />
-python bandplot.py -n 2 -f case.energy case.energyso -e 0.3 0.35 -l GGA GGA+SOC
+python wien2plot.py -n 3 -f gga.energyso gw.energyso mbj.energyso -e 0.315 0.295 0.286 -l GGA GW mBJ
+![](https://github.com/wfgoh/wien2plot/example/band.jpg)
 
 **Help:** <br />
 python bandplot.py -h
