@@ -17,3 +17,6 @@ python wien2plot.py -n 3 -f gga.energyso gw.energyso mbj.energyso -e 0.315 0.295
 
 **Help:** <br />
 python bandplot.py -h
+
+**License** <br />
+This project is licensed under the terms of the MIT license.
